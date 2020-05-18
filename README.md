@@ -1,4 +1,4 @@
-# Proyecto-JI0001
-suma de dos números
+# Suma dos números
+Simple programa Java que suma dos números
 # Clonar
-git clone git@github.com:SystemsJava76/Proyecto-JI0001.git
+git clone https://github.com/jlorenzoC/suma-dos-numeros.git
